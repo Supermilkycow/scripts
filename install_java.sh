@@ -18,7 +18,7 @@
 
 ADMIN_EMAIL=""
 # type can be jre or jdk
-JAVA_TYPE="jre"
+JAVA_TYPE="jdk"
 JAVA_VERSION="8"
 EXT="rpm"
 
